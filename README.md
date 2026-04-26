@@ -248,7 +248,7 @@ Katkılar memnuniyetle karşılanır. Şunlar için yönergeler için `CONTRIBUT
 ### İletişim
 
 - GitHub Issues: Hatalar, özellik istekleri ve sorular için
-- Diabolikss markası: [Sosyal medya linkleri]
+- Diabolikss markası: diabolikss@gmail.com
 
 ---
 

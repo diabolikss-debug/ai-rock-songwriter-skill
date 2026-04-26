@@ -125,7 +125,7 @@ Contributions are welcome. See `CONTRIBUTING.md` for guidelines on:
 ### Contact
 
 - GitHub Issues: For bugs, feature requests, and questions
-- Diabolikss brand: [Links to social media]
+- Diabolikss brand: diabolikss@gmail.com
 
 ---
 
